@@ -1,0 +1,86 @@
+{
+  "id": "1600273",
+  "name": "font",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "92950",
+      "name": "足迹",
+      "font_class": "zuji",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "457698",
+      "name": "购物车",
+      "font_class": "iconfonttianmaochaoshigouwuche",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "1148903",
+      "name": "客服中心",
+      "font_class": "kefuzhongxin",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "2220071",
+      "name": "资产",
+      "font_class": "zichan",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "5716570",
+      "name": "订单管理",
+      "font_class": "dingdanguanli-",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "5783843",
+      "name": "邮箱",
+      "font_class": "-",
+      "unicode": "e718",
+      "unicode_decimal": 59160
+    },
+    {
+      "icon_id": "6614174",
+      "name": "个人中心 - 选中（新）",
+      "font_class": "gerenzhongxin-xuanzhongxin",
+      "unicode": "e69f",
+      "unicode_decimal": 59039
+    },
+    {
+      "icon_id": "7643694",
+      "name": "优惠券",
+      "font_class": "youhuiquan",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "8777510",
+      "name": "arrow_left",
+      "font_class": "icon-test",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "8777512",
+      "name": "arrow_right",
+      "font_class": "icon-test1",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "8807360",
+      "name": "收 藏",
+      "font_class": "collect",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}

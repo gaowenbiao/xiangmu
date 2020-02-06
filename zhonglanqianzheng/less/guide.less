@@ -1,0 +1,66 @@
+@color: #0BA1E4;
+//内容区域
+.content{
+    margin-top: 90px;
+}
+@media screen and(max-width:768px){
+    .content{
+    margin-top: 0px;
+}
+}
+.content{
+    
+    .container{
+        .row{
+            .col-sm-12{
+                .breadcrumb{
+                    margin-bottom: 0px;
+                    padding: 15px;
+                }
+            }
+            .col-sm-3{
+                ul{
+                    list-style: none;
+                    padding-left: 30px;
+                    a{
+                        text-decoration: none;
+                    }
+                    li{
+                        overflow: hidden;
+                        text-overflow: ellipsis;
+                        white-space: nowrap;
+                        margin-top: 5px;
+                    }
+                }
+                .threeul{
+                    display: none;
+                }
+                .twoul a{
+                    color: #333;
+                }
+                .twoul {
+                  display: none;
+                }
+                .col3-ul{
+                    
+                }
+            }
+            .col-sm-9{
+                border-left: 1px solid #666;
+                h2{
+                  border-bottom: 1px solid #999;  
+                  padding-bottom: 10px;
+                }
+                h3{
+                    color: @color;
+                }
+                p{
+                    text-indent:2em;
+                    line-height: 2em;
+//                  position: relative;
+                }
+             
+            }
+        }
+    }
+}

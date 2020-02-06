@@ -1,0 +1,44 @@
+{
+  "id": "1614163",
+  "name": "zhonglanqianzheng",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "512594",
+      "name": "向上箭头",
+      "font_class": "xiangxiajiantou-copy",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "827866",
+      "name": "客服",
+      "font_class": "unie607",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "1705378",
+      "name": "qq",
+      "font_class": "qq",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "6118051",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e68a",
+      "unicode_decimal": 59018
+    },
+    {
+      "icon_id": "8740376",
+      "name": "电 话",
+      "font_class": "dianhua",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
