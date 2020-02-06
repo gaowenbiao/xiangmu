@@ -1,0 +1,127 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-size: 16px;
+}
+body{
+	background-color: #f1f2f6;
+}
+.head{
+	width: 100%;
+	height: 120px;
+	background: url(../images/yinyue_bg.jpg);
+}
+.logoimg{
+	float: left;
+}
+.header{
+	width: 1100px;
+	height: 120%;
+	margin: 0 auto;
+}
+.nav{
+	/*width: 547px;*/
+	height: 120%;
+	float: right;
+	margin: 40px auto;
+}
+.nav div{
+	display: inline-block;
+	margin-left:20px;
+}
+.nav div a{
+    color: white;
+    text-decoration: none;
+}
+.nav img{
+	margin-left: 5px;
+	vertical-align: text-bottom;
+}
+.nav-div-two{
+	position: relative;
+}
+.nav-oneul{
+	width: 170px;
+	background-color: #36264a;
+	position: absolute;
+	top: 24px;
+	left: -20px;
+	list-style: none;
+	line-height: 2.5em;
+	padding-left: 20px;
+	display: none;
+	padding-left: 0;
+}
+.nav-oneul li a{
+	padding-left: 20px;
+	display: inline-block;
+}
+.nav-oneul li span{
+	display: inline-block;
+	float: right;
+	margin-right: 10px;
+	color: white;
+	display: none;
+}
+.nav-div-two:hover .nav-oneul{
+	display: block;
+}
+.nav-oneul li:hover{
+	background-color: #00A2E8;
+} 
+.nav-oneul li a:hover{
+	transform: translateX(10px);
+	transition: all 0.5s;
+}
+.nav-oneul li:hover span{
+	display: inline-block;
+}
+
+
+/*尾部footer*/
+.footer{
+    width: 100%;
+}
+.footer-arc{
+	width: 100%;
+	height: 33px;
+	background: url(../images/map_bottomimg.png) no-repeat center;
+}
+.footer-copyright{
+	width: 100%;
+	height: 348px;
+	background: url(../images/yinyue_bg.jpg) no-repeat;
+}
+.footer-yinyue{
+	width: 1100px;
+	/*height: 183px;*/
+	margin: 0px auto;
+	text-align: center;
+	padding-top: 116px;
+}
+.footer-yinyue span{
+	display: inline-block;
+	width: 57px;
+	height: 57px;
+	overflow: hidden;
+	margin-right: 20px;
+	cursor: pointer;
+}
+.footer-yinyue span img{
+	width: 57px;
+	height: 114px;
+	display: block;
+}
+.footer-yinyue span:hover #footerimg{
+	margin-top: -57px;
+}
+.footer-bottom-copyright{
+	width: 1100px;
+	margin: 50px auto;
+	padding-top: 30px;
+	color: whitesmoke;
+	border-top: 2px dashed whitesmoke;
+	text-align: center;
+	font-size: 14px;
+}
+
